@@ -9,3 +9,4 @@ class College extends Student
       obj.name(); 
    } 
  }
+ //just do it
